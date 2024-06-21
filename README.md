@@ -1,5 +1,3 @@
-<img alt="Logo" src="https://i.imgur.com/NIJPXOu.png" width="100%">
-
 ## Indice
 
 - [Sobre](#sobre)
